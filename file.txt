@@ -1,1 +1,7 @@
 commit 1
+<<<<<<< HEAD
+commit 2
+commit 3
+commit 4
+=======
+>>>>>>> parent of 4195000 ( commit 2)
